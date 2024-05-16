@@ -1,0 +1,12 @@
+link
+Arduino - oled
+gnd - gnd 
+vcc - vcc
+d13 - d0
+d11 - d1
+d8 - reset
+d9 - dc
+d10 - cs
+U8GLIB_SH1106_128X64 u8g(13, 11, 10, 9, 8);
+
+
